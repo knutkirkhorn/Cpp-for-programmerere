@@ -7,12 +7,17 @@ int main() {
   double *peker = &tall;
   double &referanse = tall;
   
-  //Måte 1:
-  cout << tall << endl;
+  double tilordnet = 0.1;
   
-  //Måte 2:
-  cout << *peker << endl;
+  //Måte 1
+  tilordnet = tall;
+  cout << tilordnet << endl;
   
-  //Måte 3:
-  cout << referanse << endl;
+  //Måte 2
+  tilordnet = *peker;
+  cout << tilordnet << endl;
+  
+  //Måte 3
+  tilordnet = referanse;
+  cout << tilordnet << endl;
 }
