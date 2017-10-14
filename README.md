@@ -5,7 +5,7 @@
 - [Øving 1: Grunnleggende C++](Øving%201)
 - [Øving 2: Pekere og referanser](Øving%202)
 - [Øving 3: Objektorientert programmering i C++](Øving%203)
-- [Øving 4: Kontainere, auto og anonyme funksjoner]()
+- [Øving 4: Kontainere, auto og anonyme funksjoner](Øving%204)
 - [Øving 5: Liv og død, smarte pekere og polymorfi]()
 - [Øving 6: Funksjonsobjekter og trådprogrammering]()
 - [Øving 7: Operator overloading]()
