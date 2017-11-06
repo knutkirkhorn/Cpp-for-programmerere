@@ -9,7 +9,7 @@
 - [Øving 5: Liv og død, smarte pekere og polymorfi](Øving%205)
 - [Øving 6: Funksjonsobjekter og trådprogrammering](Øving%206)
 - [Øving 7: Operator overloading](Øving%207)
-- [Øving 8: Templates]()
+- [Øving 8: Templates](Øving%208)
 - [Øving 9: STL-algoritmer]()
 - [Øving 10: 3. parts bibliotek]()
 
