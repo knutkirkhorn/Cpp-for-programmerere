@@ -10,7 +10,7 @@
 - [Øving 6: Funksjonsobjekter og trådprogrammering](Øving%206)
 - [Øving 7: Operator overloading](Øving%207)
 - [Øving 8: Templates](Øving%208)
-- [Øving 9: STL-algoritmer]()
+- [Øving 9: STL-algoritmer](Øving%209)
 - [Øving 10: 3. parts bibliotek]()
 
 ## Se andre emner
