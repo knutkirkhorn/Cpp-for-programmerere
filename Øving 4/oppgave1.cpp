@@ -16,7 +16,7 @@ int main() {
   vector<double>::iterator it = find(tabell.begin(), tabell.end(), 2.4);
   
   if (it != tabell.end()) {
-    cout << "Tallet ble funnet: " << *it << endl;    
+    cout << "Tallet " << *it << " ble funnet" << endl;    
   } else {
     cout << "Tallet 2.4 ble ikke funnet" << endl;
   }
@@ -24,7 +24,7 @@ int main() {
   // Leter etter et tall som ikke eksisterer i tabellen
   it = find(tabell.begin(), tabell.end(), 2.5);
   if (it != tabell.end()) {
-    cout << "Tallet ble funnet: " << *it << endl;    
+    cout << "Tallet" << *it << " ble funnet" << endl;    
   } else {
     cout << "Tallet 2.5 ble ikke funnet" << endl;
   }
